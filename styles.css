@@ -1,2 +1,27 @@
-
+.row{
+display:inline-block;
+padding: 5px;
+}
+.col{
+   display: block;
+   float: left; 
+   padding: 5px;
+}
+.col1{
+    display: block;
+    float: left; 
+    align-items: flex-start;
+    padding: 5px;
+ }
+ .col2{
+    display: block;
+    float: left; 
+    align-items: flex-start;
+    padding: 5px;
+ }
+ .col3{
+    width: 100%;
+    height:auto;
+    padding: 5px;
+ }
 /* Your CSS Code here. */
